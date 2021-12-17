@@ -4,3 +4,7 @@ html *
 {
 	font-family: 'Readex Pro', sans-serif !important;
 }
+
+.dark {
+	background-color: #23272a
+}
